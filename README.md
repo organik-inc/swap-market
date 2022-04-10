@@ -11,6 +11,4 @@ This model is an attempt to question and re-establish the values that rule indiv
 
 But what are Complementary Currencies?
 
-> CCs are defined as an agreement
-> to use something else than legal tender as a medium of exchange
-> with the purpose to link unmet needs with otherwise unused resources.
+> CCs are defined as an agreement to use something else than legal tender as a medium of exchange with the purpose to link unmet needs with otherwise unused resources.
